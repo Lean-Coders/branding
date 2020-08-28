@@ -36,6 +36,8 @@ Headlines: [Montserrat Bold](https://raw.githubusercontent.com/Lean-Coders/brand
 
 ## Logo
 
+Font used in Logo: Gotham Medium
+
 ![logo](https://raw.githubusercontent.com/Lean-Coders/branding/master/logo/lc-logo_300x134.svg)
 
 ## Logo reversed
