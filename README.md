@@ -38,15 +38,15 @@ Headlines: [Montserrat Bold](https://raw.githubusercontent.com/Lean-Coders/brand
 
 ## Logo reversed
 
-![logo](https://raw.githubusercontent.com/Lean-Coders/branding/master/logo/lc-logo_reversed_300x134.svg)
+![logo reversed](https://raw.githubusercontent.com/Lean-Coders/branding/master/logo/lc-logo_reversed_300x134.svg)
 
 ## Icon
 
-![logo](https://raw.githubusercontent.com/Lean-Coders/branding/master/logo/lc-icon_278x270.svg)
+![icon](https://raw.githubusercontent.com/Lean-Coders/branding/master/icon/lc-icon_278x270.svg)
 
 ## Icon reversed
 
-![logo](https://raw.githubusercontent.com/Lean-Coders/branding/master/logo/lc-icon_278x270_reversed.svg)
+![icon reversed](https://raw.githubusercontent.com/Lean-Coders/branding/master/icon/lc-icon_278x270_reversed.svg)
 
 ## Demo
 
