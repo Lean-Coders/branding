@@ -20,6 +20,11 @@ HEX: #C2C4CA
 RGB: 194,196,202
 CMYK: 0,0,0,23
 
+### Inverted (Lightest Grey):
+
+HEX: #EBEAEB
+RGB: 235,234,235
+
 ## Fonts
 
 Regular Text: [Montserrat Regular](https://raw.githubusercontent.com/Lean-Coders/branding/master/font/Montserrat-Regular.otf)
