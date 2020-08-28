@@ -32,6 +32,22 @@ Regular Text: [Montserrat Regular](https://raw.githubusercontent.com/Lean-Coders
 
 Headlines: [Montserrat Bold](https://raw.githubusercontent.com/Lean-Coders/branding/master/font/Montserrat-Bold.otf)
 
+## Logo
+
+![logo](https://raw.githubusercontent.com/Lean-Coders/branding/master/logo/lc-logo_300x134.svg)
+
+## Logo reversed
+
+![logo](https://raw.githubusercontent.com/Lean-Coders/branding/master/logo/lc-logo_reversed_300x134.svg)
+
+## Icon
+
+![logo](https://raw.githubusercontent.com/Lean-Coders/branding/master/logo/lc-icon_278x270.svg)
+
+## Icon reversed
+
+![logo](https://raw.githubusercontent.com/Lean-Coders/branding/master/logo/lc-icon_278x270_reversed.svg)
+
 ## Demo
 
 ![ci](https://raw.githubusercontent.com/Lean-Coders/branding/master/ci.svg)
