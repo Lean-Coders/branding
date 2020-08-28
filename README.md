@@ -6,24 +6,25 @@
 
 HEX: #A50D73
 RGB: 165,13,115
-CMYK: 0,60,20,35
+CMYK: 41.66%,100%,15.9%,0
 
 ### Secondary (Dark Grey):
 
 HEX: #342E36
 RGB: 52,46,54
-CMYK: 1,3,0,79
+CMYK: 0,0,0,100%
 
 ### Tertiary (Light Grey):
 
 HEX: #C2C4CA
 RGB: 194,196,202
-CMYK: 0,0,0,23
+CMYK: 0,0,0,40%
 
 ### Inverted (Lightest Grey):
 
 HEX: #EBEAEB
 RGB: 235,234,235
+CMYK: 0,0,0,0
 
 ## Fonts
 
