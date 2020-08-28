@@ -1,5 +1,7 @@
 # Branding
 
+![ci](https://raw.githubusercontent.com/Lean-Coders/branding/master/ci.svg)
+
 ## Colors
 
 ### Primary (LC Magenta):
@@ -47,10 +49,6 @@ Headlines: [Montserrat Bold](https://raw.githubusercontent.com/Lean-Coders/brand
 ## Icon reversed
 
 ![icon reversed](https://raw.githubusercontent.com/Lean-Coders/branding/master/icon/lc-icon_278x270_reversed.svg)
-
-## Demo
-
-![ci](https://raw.githubusercontent.com/Lean-Coders/branding/master/ci.svg)
 
 Also check Confluence for detailed descriptions:
 [CI+Farbcodes](https://leancoders.atlassian.net/wiki/spaces/LEANCODERS/pages/11468858/CI+Farbcodes)
