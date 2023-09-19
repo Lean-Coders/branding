@@ -1,0 +1,27 @@
+{
+  "name": "@leancoders/branding",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CI-info of LEAN-CODERS",
+  "scripts": {
+    "build:signatures": "html-minifier -c ./.html-minifierrc.json --input-dir ./email-signature --output-dir ./email-signature/dist --file-ext html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lean-Coders/branding.git"
+  },
+  "keywords": [
+    "CI",
+    "branding",
+    "LEAN-CODERS"
+  ],
+  "author": "florian bacher <florian.bacher@lean-coders.at>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Lean-Coders/branding/issues"
+  },
+  "homepage": "https://github.com/Lean-Coders/branding#readme",
+  "devDependencies": {
+    "html-minifier": "^4.0.0"
+  }
+}
