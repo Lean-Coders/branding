@@ -4,7 +4,7 @@
   "private": true,
   "description": "CI-info of LEAN-CODERS",
   "scripts": {
-    "build:signatures": "html-minifier -c ./.html-minifierrc.json --input-dir ./email-signature/src --output-dir ./email-signature/dist --file-ext html"
+    "build:signatures": "html-minifier -c ./.html-minifierrc.json --input-dir ./email-signature/src --output-dir ./email-signature --file-ext html"
   },
   "repository": {
     "type": "git",
